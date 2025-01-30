@@ -1,2 +1,5 @@
-# MobileProject
-This repository is design to store and manage project files, code, documentation and related resources with an initialized mobile app using #flutter #react-native.
+## Links
+- [GitHub Repository](https://github.com/your-username/project-name)
+- [HNG Hire Page](http://hng.tech/hire/react-native-developers)
+- [Telex.im](https://Telex.im)
+- [Delve.fun](https://delve.fun)
